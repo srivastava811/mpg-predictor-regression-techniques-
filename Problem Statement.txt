@@ -1,0 +1,10 @@
+The purpose of this project is to develop and evaluate machine learning models for predicting the fuel efficiency 
+(miles per gallon, MPG) of automobiles based on various features, including engine displacement, horsepower, weight,
+and acceleration. Accurate MPG predictions are critical for automotive manufacturers, policymakers, and consumers 
+to optimize fuel consumption and reduce environmental impact.
+
+This project focuses not only on achieving high prediction accuracy but also on comparing the performance of multiple
+regression techniques, including linear regression, decision tree regression, support vector regression, and ensemble
+methods. The objective is to identify the most effective regression model in terms of accuracy, computational 
+efficiency, and robustness to different data scenarios. Insights gained will inform future model selection for similar
+predictive tasks.
